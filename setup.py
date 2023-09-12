@@ -14,5 +14,5 @@ setup(
  author="Arifa Mustafa",
  author_email="arifacsdsu@gmail.com",
  packages=find_packages(),
- install_require = get_requirements("requirements.txt")
+ install_requirements = get_requirements("requirements.txt")
 )
